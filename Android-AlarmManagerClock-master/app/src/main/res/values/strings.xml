@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AlarmManagerClockDemo</string>
+    <string name="mon">Senin</string>
+    <string name="tue">Selasa</string>
+    <string name="wed">Rabu</string>
+    <string name="thu">Kamis</string>
+    <string name="fri">Jumat</string>
+    <string name="sat">sabtu</string>
+    <string name="sun">Minggu</string>
+    <string name="cycle_sure">Tentukan</string>
+    <string name="vibration">Getaran</string>
+    <string name="ring">Nada dering
+</string>
+</resources>

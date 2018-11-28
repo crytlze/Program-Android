@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rental Mobil</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buatbiodata">FORM PEMESANAN MOBIL</string>
+    <string name="title_activity_lihatbiodata">Lihat Pemesanan</string>
+    <string name="title_activity_updatebiodata">Update Pemesanan</string>
+</resources>

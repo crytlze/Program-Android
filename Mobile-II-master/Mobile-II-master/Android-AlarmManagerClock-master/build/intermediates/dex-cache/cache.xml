@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\.android\build-cache\b67976172f099b862055452d3eeebc782b0fb39a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_838c020dbd9a514c830f5bef71652505af53a5c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\.android\build-cache\fd759957c4e1bb50d802ae486d27a8099c2ddf1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fca01eecdda602304666f6dbdb67f048e1bd72b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\.android\build-cache\5588ef9f595eff0c1544406ccca3d1d7373a6f61\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_65e14cb43f19f8ae61eb9c1f1736f1de6cb9bada\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\.android\build-cache\55cb87ce412611662b82b52b7069fb646699522d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3428d1eb3732972f6387c96ededadac57cddce59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="078636ef696d4d9cf523a93189c306ed80ce4551">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_06e2485c781322f70eb5f7067cddf3a3f1da5630\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_84d62ee05495d1341f7de86f720afac95d65aa2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\.android\build-cache\5588ef9f595eff0c1544406ccca3d1d7373a6f61\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7b6bc59769838b3fdbcbcb6a687f55234a0035ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\.android\build-cache\33e5b6f712c34e81e72fdc03d59bd1beaa3231cf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3f00bb9cdb0a14b0db183427d227bfd78b29ec2">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8ffd7a38384d0f400146d61c3dc8bf8f824bd00d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\presentasi\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="D:\Alamer\Android-AlarmManagerClock-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ab9e45a11c5f8db38c45aaabe24ad3dbe3a30c65\classes.dex" />
+    </item>
+
+</items>
