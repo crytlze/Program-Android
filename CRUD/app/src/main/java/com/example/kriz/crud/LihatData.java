@@ -35,7 +35,7 @@ public class LihatData extends AppCompatActivity {
         RefreshList();
     }
 
-    private void RefreshList() {
+    public void RefreshList() {
 
         SQLiteDatabase db = dbcenter.getReadableDatabase();
         cursor = db.rawQuery("SELECT * FROM mahasiswa",null);
@@ -54,7 +54,7 @@ public class LihatData extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView arg0, View arg1, int arg2, long arg3) {
                 final String selection = daftar[arg2]; //.getItemAtPosition(arg2).toString();
-                final CharSequence[] dialogitem = {"Lihat "};
+                final CharSequence[] dialogitem = {"Lihat","Ubah","Hapus"};
                 AlertDialog.Builder builder = new AlertDialog.Builder(LihatData.this);
                 builder.setTitle("Mau Ngapain Hayo ?");
                 builder.setItems(dialogitem, new DialogInterface.OnClickListener() {
@@ -64,6 +64,18 @@ public class LihatData extends AppCompatActivity {
                                 Intent i = new Intent(getApplicationContext(), MainActivity.class);
                                 i.putExtra("nama", selection);
                                 startActivity(i);
+                                break;
+
+                            case 1 :
+                                Intent in = new Intent(getApplicationContext(), UbahBiodata.class);
+                                in.putExtra("nama", selection);
+                                startActivity(in);
+                                break;
+
+                            case 2 :
+                                SQLiteDatabase db = dbcenter.getWritableDatabase();
+                                db.execSQL("delete from mahasiswa where nama = '"+selection+"'");
+                                RefreshList();
                                 break;
 
                         }

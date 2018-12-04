@@ -18,6 +18,7 @@
         </activity>
         <activity android:name=".TambahData" />
         <activity android:name=".MainActivity" />
+        <activity android:name=".UbahBiodata"></activity>
     </application>
 
 </manifest>
