@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "340003331695",
+    "firebase_url": "https://fcmessaging-fc9ed.firebaseio.com",
+    "project_id": "fcmessaging-fc9ed",
+    "storage_bucket": "fcmessaging-fc9ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340003331695:android:de918671d85d3033",
+        "android_client_info": {
+          "package_name": "com.example.kriz.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340003331695-cricub1h5nro3hmclr7glh8bkvrc2feb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kriz.fcm",
+            "certificate_hash": "f3a4c5e4c29ec781d935f5e5b411926992e166b0"
+          }
+        },
+        {
+          "client_id": "340003331695-alc0cl0omo0j6mr2fq6spog3qk0nhmav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXF85lDfZD7j5-MtU-bYHHXvJ6Snbrhd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340003331695-alc0cl0omo0j6mr2fq6spog3qk0nhmav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
